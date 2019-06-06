@@ -5,9 +5,9 @@ UPDATE spawn2 SET min_expansion=9 WHERE id=8748;
 UPDATE spawn2 SET min_expansion=70 WHERE id=8749;
 -- Feraniel Leafsway unknown era spawn	
 UPDATE spawn2 SET min_expansion=70 WHERE id=8750;
--- Laernian Caelael unknown era spawn - Town Crier	
-UPDATE spawn2 SET min_expansion=70 WHERE id=8784;
--- Galrun Starforge disabled until Omens of War - Paladin 2.0 Epic mob	
+-- Laernian Caelael disabled until LDoN - Town Crier	
+UPDATE spawn2 SET min_expansion=7 WHERE id=8784;
+-- Galrun Starforge disabled until OoW - Paladin 2.0 Epic mob
 UPDATE spawn2 SET min_expansion=9 WHERE id=250548;
 -- Ann Oma disabled until GoD - Tribute Master	
 UPDATE spawn2 SET min_expansion=8 WHERE id=8742;
@@ -19,7 +19,7 @@ UPDATE spawn2 SET min_expansion=70 WHERE id=8747;
 UPDATE spawn2 SET min_expansion=6 WHERE id=8733;
 -- Larroniae Huial disabled until LDoN - Adventurer's Stone quest	
 UPDATE spawn2 SET min_expansion=7 WHERE id=8789;
--- Soulbinder Elendalira unknown era spawn - Soulbinder	
+-- Soulbinder Elendalira disabled until SoL - Soulbinder	
 UPDATE spawn2 SET min_expansion=70 WHERE id=8786;
 
 -- Merchant Lists
