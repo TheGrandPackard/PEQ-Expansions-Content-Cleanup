@@ -23,12 +23,6 @@ UPDATE merchantlist SET min_expansion=9 WHERE merchantid=62026 and item=52948;
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62026 AND item IN (95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 95813, 95820, 95806, 95812, 95819, 95805, 95826, 95816, 95823, 95809);
 -- Merchant Tyslin - Remove unknown era items	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62026 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958,  37957, 37801, 35959, 37798, 37956, 37803, 37802);
--- Merchant Tyslin - Remove OoW era items (Enchanter 2.0 Epic quest piece)	
-UPDATE merchantlist SET min_expansion=9 WHERE merchantid=61044 and item=52948;
--- Merchant Tyslin - Remove PoR era crafting items	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=61044 AND item IN (95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 95813, 95820, 95806, 95812, 95819, 95805, 95826, 95816, 95823, 95809);
--- Merchant Tyslin - Remove unknown era items	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=61044 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958,  37957, 37801, 35959, 37798, 37956, 37803, 37802);
 -- Merchant Yisasan - RemoveSoL era items	
 UPDATE merchantlist SET min_expansion=4 WHERE merchantid=62028 AND item IN (93167, 93168, 93169, 93170, 93171, 93172);
 -- Stormy - Remove unknown era items	
