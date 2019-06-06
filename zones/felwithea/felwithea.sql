@@ -8,12 +8,11 @@ UPDATE spawn2 SET min_expansion=6 WHERE id=8830;
 
 -- Merchant Lists
 -- Elle Leafdancer - Remove accidental items	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62013 AND item IN (13068, 10030);
+UPDATE merchantlist SET min_expansion=99 WHERE merchantid=62013 AND item IN (13068, 10030);
 -- Griff Candleflame - Remove accidental items	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62014 and item=1011;	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62009 AND item=81837;
+UPDATE merchantlist SET min_expansion=99 WHERE merchantid=62014 and item=1011;	
 -- Merchant Jewyln - Remove accidental items	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62030 AND item IN (16017);
+UPDATE merchantlist SET min_expansion=99 WHERE merchantid=62030 AND item IN (16017);
 -- Merchant Jewyln - Remove unknown era items	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62030 AND item IN (16013, 16014);
 -- Merchant Lyssia - Remove unknown era items	
@@ -35,5 +34,6 @@ UPDATE merchantlist SET min_expansion=4 WHERE merchantid=62028 AND item IN (9316
 -- Stormy - Remove unknown era items	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62009 AND item IN (81825, 81831, 81829, 81828, 81832);
 -- Stormy - Remove DoN era items
+UPDATE merchantlist SET min_expansion=10 WHERE merchantid=62009 AND item=81837;
 
 -- Loot Tables
