@@ -73,10 +73,3 @@
   * Vah Shir Cookie Mold (92982) disabled until SoL - Crafting item
 
 ## Loot Tables
-
-## Quests (TODO)
-
-* Barma Dunfire - Apprentice Miner's Gauntlets unknown era
-* Peg Leg - Shaman Epic Quest NPC RoK
-* Peg Leg - Axebringers Final Favor Quest NPC PoP
-* Walnan - Magician Epic 1.5 Quest NPC OoW
