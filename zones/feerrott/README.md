@@ -70,3 +70,7 @@
   * Abu-Kar's Arcane Solution (124630) unknown era item
 	
 ## Loot Tables
+
+## Zone Points
+* Plane of Knowledge (11) disabled until PoP
+* Innothule Swamp [revamp] (2343) unknown era spawn point

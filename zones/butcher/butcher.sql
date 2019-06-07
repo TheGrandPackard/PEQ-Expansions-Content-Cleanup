@@ -113,5 +113,8 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=68096 AND item=92982;
 -- Ellona	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=68111 AND item=15558;
 
-
 -- Loot Tables
+
+-- Zone Points
+-- Plane of Knowledge
+UPDATE zone_points SET min_expansion=5 WHERE id=552;

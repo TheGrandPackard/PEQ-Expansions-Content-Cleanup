@@ -73,3 +73,7 @@
   * Vah Shir Cookie Mold (92982) disabled until SoL - Crafting item
 
 ## Loot Tables
+
+## Zone Points
+
+* Plane of Knowledge zone point (552) disabled until PoP

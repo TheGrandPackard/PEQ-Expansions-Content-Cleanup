@@ -12,3 +12,6 @@
 
 ## Loot Tables
 
+## Zone Points
+
+* Plane of Knowledge (1874) disabled until PoP
