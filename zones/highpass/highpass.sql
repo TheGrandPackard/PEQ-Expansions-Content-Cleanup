@@ -2,17 +2,17 @@
 -- a shady Highpass citizen
 UPDATE spawn2 SET min_expansion=9 WHERE id=108780;
 -- Alhareen the Just
-UPDATE spawn2 SET min expansion=70 WHERE id=2268;
+UPDATE spawn2 SET min_expansion=70 WHERE id=2268;
 -- Anson McBale
-UPDATE spawn2 SET min expansion=2 WHERE id=2265;
+UPDATE spawn2 SET min_expansion=2 WHERE id=2265;
 -- Commander Tehafer
-UPDATE npc types SET name="Commander Tehafer" WHERE id=5132;
+UPDATE npc types SET name="Commander_Tehafer" WHERE id=5132;
 -- Falyn Farreach
-UPDATE spawn2 SET min expansion=70 WHERE id=2247;
+UPDATE spawn2 SET min_expansion=70 WHERE id=2247;
 -- Lydl the Great
-UPDATE spawn2 SET min expansion=70 WHERE id=2229;
+UPDATE spawn2 SET min_expansion=70 WHERE id=2229;
 -- Shumpi Wimahnn
-UPDATE spawn2 SET min expansion=7 WHERE id=2307;
+UPDATE spawn2 SET min_expansion=7 WHERE id=2307;
 -- The Fabled Grenix Mucktail
 UPDATE spawnentry SET chance=0 WHERE spawngroupID=1923 AND npcID=5134;
 -- Vranol Blackguard
