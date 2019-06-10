@@ -13,3 +13,7 @@
 ## Doors
 
 * Plane of Knowledge (3415) disabled until PoP
+
+## Objects
+
+* Augmentation Pool (22340) disabled until LDoN

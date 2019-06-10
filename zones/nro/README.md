@@ -8,3 +8,7 @@
 
 ## Zone Points
  * The Iceclad Ocean (689) disabled until SoV
+
+## Objects
+
+* Augmentation Pool (22336) disabled until LDoN

@@ -122,3 +122,7 @@ UPDATE zone_points SET min_expansion=5 WHERE id=552;
 -- Doors
 -- Plane of Knowledge
 UPDATE doors SET min_expansion=5 WHERE id=12913;
+
+-- Objects
+-- Augmentation Pool
+UPDATE object SET min_expansion=7 WHERE id=360;

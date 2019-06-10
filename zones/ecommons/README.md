@@ -9,3 +9,7 @@
 ## Zone Points
 * Nektulos [revam] (1585) unknown era zone point
 * Kithicor (2350) unknown era zone point
+
+## Objects
+
+* Augmentation Pool (22335) disabled until LDoN

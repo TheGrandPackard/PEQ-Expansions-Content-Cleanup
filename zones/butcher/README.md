@@ -82,3 +82,7 @@
 
 * Plane of Knowledge (12913) disabled until PoP
 
+## Objects
+
+* Augmentation Pool (360) disabled until LDoN
+
