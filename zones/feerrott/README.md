@@ -72,5 +72,11 @@
 ## Loot Tables
 
 ## Zone Points
+
 * Plane of Knowledge (11) disabled until PoP
 * Innothule Swamp [revamp] (2343) unknown era spawn point
+
+## Doors
+
+* Plane of Knowledge (5337) disabled until PoP
+

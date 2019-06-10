@@ -7,4 +7,10 @@
 ## Loot Tables
 
 ## Zone Points
+
 * Plane of Knowledge (391) disabled until PoP
+
+## Doors
+
+* Plane of Knowledge (5783) disabled until PoP
+

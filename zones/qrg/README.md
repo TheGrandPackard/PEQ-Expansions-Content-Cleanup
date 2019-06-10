@@ -8,4 +8,8 @@
 
 ## Zone Points
 
-* Jaggedpine Forest (538) unknown era zone point
+* Jaggedpine Forest (538) disabled until SoL
+
+## Doors 
+
+* Jaggedpine Forest (2095) disabled until SoL

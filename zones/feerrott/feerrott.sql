@@ -25,3 +25,7 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=47149 and item IN (124
 UPDATE zone_points SET min_expansion=5 WHERE id=11;
 -- Innothule Swamp
 UPDATE zone_points SET min_expansion=70 WHERE id=2343;
+
+-- Doors
+-- Plane of Knowledge
+UPDATE doors SET min_expansion=5 WHERE id=5337;

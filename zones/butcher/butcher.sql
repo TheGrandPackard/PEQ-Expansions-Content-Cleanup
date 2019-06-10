@@ -118,3 +118,7 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=68111 AND item=15558;
 -- Zone Points
 -- Plane of Knowledge
 UPDATE zone_points SET min_expansion=5 WHERE id=552;
+
+-- Doors
+-- Plane of Knowledge
+UPDATE doors SET min_expansion=5 WHERE id=12913;

@@ -76,4 +76,9 @@
 
 ## Zone Points
 
-* Plane of Knowledge zone point (552) disabled until PoP
+* Plane of Knowledge (552) disabled until PoP
+
+## Doors
+
+* Plane of Knowledge (12913) disabled until PoP
+

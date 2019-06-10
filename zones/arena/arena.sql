@@ -17,3 +17,7 @@ UPDATE spawn2 SET min_expansion=4 WHERE id=57775;
 -- Zone Points
 -- Plane of Knowledge
 UPDATE zone_points SET min_expansion=5 WHERE id=1874;
+
+-- Doors
+-- Plane of Knowledge
+UPDATE doors SET min_expansion=5 WHERE id=33835;
