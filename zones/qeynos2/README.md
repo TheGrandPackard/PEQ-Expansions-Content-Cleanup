@@ -2,6 +2,8 @@
 
 ## Spawns
 
+* Connie Link (2098) unknown era spawn
+
 ## Merchant Lists
 
 ## Loot Tables

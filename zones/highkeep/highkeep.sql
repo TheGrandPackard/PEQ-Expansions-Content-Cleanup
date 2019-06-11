@@ -1,4 +1,8 @@
 -- Spawns
+-- Grahm Embersmith 
+UPDATE spawn2 SET min_expansion=70 WHERE id=10157;
+-- Krystalle Corsair 
+UPDATE spawn2 SET min_expansion=70 WHERE id=10160;
 
 -- Merchant Lists
 

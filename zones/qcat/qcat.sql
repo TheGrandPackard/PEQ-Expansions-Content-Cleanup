@@ -1,6 +1,8 @@
 -- Spawns
 
 -- Merchant Lists
+-- Kubder Restona
+UPDATE spawn2 SET min_expansion=70 WHERE id=800;
 
 -- Loot Tables
 

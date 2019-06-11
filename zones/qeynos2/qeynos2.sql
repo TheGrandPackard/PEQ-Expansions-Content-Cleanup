@@ -1,4 +1,6 @@
 -- Spawns
+-- Connie Link
+UPDATE spawn2 SET min_expansion=70 WHERE id=10847;
 
 -- Merchant Lists
 

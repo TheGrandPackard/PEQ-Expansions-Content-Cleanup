@@ -2,6 +2,9 @@
 
 ## Spawns
 
+* Grahm Embersmith (6052) unknown era spawn
+* Krystalle Corsair (6055) unknown era spawn
+
 ## Merchant Lists
 
 ## Loot Tables

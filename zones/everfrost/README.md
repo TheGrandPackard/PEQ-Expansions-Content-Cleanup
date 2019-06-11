@@ -9,7 +9,7 @@
 
 ## Merchant Lists
 
-* Talin O`Donal () out of era merchant id
+* Talin O`Donal (30072) out of era merchant id
 
 ## Loot Tables
 

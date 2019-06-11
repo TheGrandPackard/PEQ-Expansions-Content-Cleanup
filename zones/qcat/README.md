@@ -2,6 +2,8 @@
 
 ## Spawns
 
+* Kubder Restona (45062) unknown era spawn
+
 ## Merchant Lists
 
 ## Loot Tables
