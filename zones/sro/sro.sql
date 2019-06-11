@@ -1,3 +1,4 @@
+-- sro
 -- Spawns
 -- Magus Jerira
 UPDATE spawn2 SET min_expansion=7 WHERE id=6622;
@@ -17,3 +18,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=393074 and item IN (92
 -- Objects
 -- Augmentation Pool
 UPDATE object SET min_expansion=7 WHERE id=22339;
+

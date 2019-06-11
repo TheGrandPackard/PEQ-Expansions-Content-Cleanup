@@ -1,3 +1,4 @@
+-- felwithea
 -- NPC Spawns
 -- Serenica Greenfinger disabled until OoW - Quest mob	
 UPDATE spawn2 SET min_expansion=9 WHERE id=8748;
@@ -54,3 +55,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=61048 AND item IN (343
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=61033 AND item IN (34478, 34479, 34475, 34537, 34480, 34470, 34473, 34529, 34528, 34533, 34530, 34525, 34527, 34522, 34524, 34523, 34531, 34532, 34526, 34467, 34474, 34472, 34476, 34546, 34468, 34471, 34540, 34545, 34542, 34539, 34543, 34536, 34544, 34534, 34538, 34541, 34535, 34469, 34477);
 
 -- Spawns
+

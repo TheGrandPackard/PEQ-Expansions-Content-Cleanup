@@ -1,3 +1,4 @@
+-- kaladima
 -- Merchant Lists
 -- Gretta Mottle
 UPDATE merchantlist SET min_expansion=9 WHERE merchantid=60000 AND item=57921;
@@ -15,3 +16,4 @@ UPDATE merchantlist SET min_expansion=6 WHERE merchantid=60070 AND item=28880;
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=60075 AND item IN (67393, 67394, 60075, 60075);
 -- Kalameky Darkfoam	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=60078 AND item IN(34486, 34482, 34487, 34491, 34516, 34521, 34515, 34519, 34512, 34520, 34511, 34514, 34510, 34517, 34513, 34518, 34494, 34483, 34504, 34509, 34497, 34503, 34548, 34492, 34507, 34499, 34498, 34508, 34501, 34502, 34505, 34500, 34506, 34914, 34490, 34493, 34488, 34547, 34485, 34484);
+

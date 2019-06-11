@@ -1,3 +1,4 @@
+-- kaladimb
 -- Spawns
 -- Marsha Stonepenner
 
@@ -25,3 +26,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67083 AND item=2022;
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67016 AND item IN(81824,81833,81837);
 -- Tempia Lauley	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67025 AND item=81824;
+

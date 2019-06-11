@@ -1,3 +1,4 @@
+-- highpass
 -- Spawns
 -- a shady Highpass citizen
 UPDATE spawn2 SET min_expansion=9 WHERE id=108780;
@@ -30,3 +31,4 @@ UPDATE merchantlist SET min_expansion=4 WHERE merchantid=5057 AND item=92974;
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=5059 AND item IN (96903, 96894, 96900, 96897, 96902, 96906, 96893, 96904, 96905, 96899, 96901, 96892, 96898, 96895, 96896);
 
 -- Loot Tables
+

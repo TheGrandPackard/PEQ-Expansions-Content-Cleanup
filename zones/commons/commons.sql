@@ -1,3 +1,4 @@
+-- commons
 -- Spawns
 
 -- Merchant Lists
@@ -15,3 +16,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=408069 AND item IN (37
 
 -- Zone Points
 UPDATE zone_points SET min_expansion=4 WHERE id=14;
+

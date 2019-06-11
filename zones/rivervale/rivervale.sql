@@ -1,3 +1,4 @@
+-- rivervale
 -- Spawns
 -- Fralith Thornbush
 
@@ -47,5 +48,5 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=19038 AND item IN (929
 
 -- Zone Points
 -- Misty Thicket
-
 UPDATE zone_points SET min_expansion=70 WHERE id=2337;
+

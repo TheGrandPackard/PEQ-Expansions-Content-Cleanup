@@ -1,3 +1,4 @@
+-- everfrost
 -- Spawns
 -- Gizula 
 UPDATE spawn2 SET min_expansion=7 WHERE id=1126;
@@ -25,3 +26,4 @@ UPDATE doors SET min_expansion=5 WHERE id=3415;
 -- Objects
 -- Augmentation Pool
 UPDATE object SET min_expansion=7 WHERE id=22340;
+

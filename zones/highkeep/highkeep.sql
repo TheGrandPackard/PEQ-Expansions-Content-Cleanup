@@ -1,3 +1,4 @@
+-- highkeep
 -- Spawns
 -- Grahm Embersmith 
 UPDATE spawn2 SET min_expansion=70 WHERE id=10157;
@@ -21,3 +22,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=6065 and item IN (3779
 -- Zone Points
 -- Highpass Hold
 UPDATE zone_points SET min_expansion=70 WHERE id IN (1702, 1703);
+

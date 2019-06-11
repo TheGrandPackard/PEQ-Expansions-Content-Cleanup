@@ -1,3 +1,4 @@
+-- northkarana
 -- Spawns
 
 -- Merchant Lists
@@ -14,3 +15,4 @@ UPDATE merchantlist SET min_expansion=3 WHERE merchantid=13068 and item IN (3043
 -- Zone Points
 -- Nexus
 UPDATE zone_points SET min_expansion=4 WHERE id=691;
+

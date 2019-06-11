@@ -1,3 +1,4 @@
+-- kithicor
 -- Spawns
 
 -- Merchant Lists
@@ -11,3 +12,4 @@ UPDATE merchantlist SET min_expansion=6 WHERE merchantid=20084 AND item=28880;
 UPDATE zone_points SET min_expansion=70 WHERE id=1704;
 -- Commonlands
 UPDATE zone_points SET min_expansion=70 WHERE id=2340;
+

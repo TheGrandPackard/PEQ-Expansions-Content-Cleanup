@@ -1,3 +1,4 @@
+-- akanon
 -- Spawns
 -- Tesil Gludien
 UPDATE spawn2 SET min_expansion=70 WHERE id=11215;
@@ -33,3 +34,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=55027 AND item IN (130
 
 -- Zone Points
 UPDATE zone_points SET min_expansion=70 WHERE id=2346;
+

@@ -1,3 +1,4 @@
+-- nro
 -- Spawns
 -- Dereu Ztr`Tn
 UPDATE spawn2 SET min_expansion=7 WHERE id=62176;
@@ -23,3 +24,4 @@ UPDATE zone_points SET min_expansion=3 WHERE id=689;
 -- Objects
 -- Augmentation Pool
 UPDATE object SET min_expansion=7 WHERE id=22336;
+

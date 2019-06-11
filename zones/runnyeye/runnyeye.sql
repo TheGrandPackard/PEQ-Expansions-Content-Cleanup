@@ -1,3 +1,4 @@
+-- runnyeye
 -- Spawns
 
 -- Merchant Lists
@@ -15,3 +16,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=11116 and item IN (130
 -- Zone Points
 -- Misty Thicket
 UPDATE zone_points SET min_expansion=70 WHERE id=2336;
+

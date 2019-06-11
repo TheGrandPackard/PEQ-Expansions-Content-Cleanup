@@ -1,3 +1,4 @@
+-- nektulos
 -- Spawns
 -- Blururg
 UPDATE spawn2 SET min_expansion=70 WHERE id=1669;

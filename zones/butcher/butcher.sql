@@ -1,3 +1,4 @@
+-- butcher
 -- NPC Spawns
 -- a greedy beggar
 UPDATE spawn2 SET min_expansion=70 WHERE id=68006;
@@ -126,3 +127,4 @@ UPDATE doors SET min_expansion=5 WHERE id=12913;
 -- Objects
 -- Augmentation Pool
 UPDATE object SET min_expansion=7 WHERE id=360;
+

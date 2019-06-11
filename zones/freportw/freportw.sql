@@ -1,3 +1,4 @@
+-- freportw
 -- Spawns
 
 -- Merchant Lists
@@ -11,3 +12,4 @@ UPDATE zone_points SET min_expansion=5 WHERE id=391;
 -- Doors
 -- Plane of Knowledge
 UPDATE doors SET min_expansion=5 WHERE id=5783;
+

@@ -1,3 +1,4 @@
+-- steamfont
 -- Merchant Lists
 -- Torodrane Frompwaddle	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=448125 AND item IN (48944, 37799, 37958, 35960, 37800, 35957, 48947, 48948, 95836, 35958, 95837, 95815, 95822, 95808, 60917, 37957, 95818, 95825, 95811, 129760, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 48945, 37798, 95813, 95820, 95806, 48946, 37956, 37803, 95812, 95819, 95805, 95826, 48949, 41240, 36439, 95816, 95823, 95809, 37802, 48950);
@@ -19,3 +20,4 @@ UPDATE zone_points SET min_expansion=5 WHERE id=743;
 -- Doors
 -- Plane of Knowledge
 UPDATE doors SET min_expansion=5 WHERE id=2561;
+

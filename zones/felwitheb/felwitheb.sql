@@ -1,3 +1,4 @@
+-- felwitheb
 -- Spawns
 -- Elishia Leafrunner - Disable spawn until SoL	
 UPDATE spawn2 SET min_expansion=4 WHERE id=8811;
@@ -31,3 +32,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62009 AND item IN (818
 UPDATE merchantlist SET min_expansion=10 WHERE merchantid=62009 AND item=81837;
 
 -- Loot Tables
+

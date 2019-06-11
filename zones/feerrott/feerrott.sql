@@ -1,3 +1,4 @@
+-- feerrott
 -- Spawns
 -- Annaelia Wylassi (47154) disabled until RoK
 UPDATE spawn2 SET min_expansion=2 WHERE id=5236;
@@ -29,3 +30,4 @@ UPDATE zone_points SET min_expansion=70 WHERE id=2343;
 -- Doors
 -- Plane of Knowledge
 UPDATE doors SET min_expansion=5 WHERE id=5337;
+

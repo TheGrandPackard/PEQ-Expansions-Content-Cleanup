@@ -1,3 +1,4 @@
+-- erudnext
 -- Spawns
 
 -- Merchant Lists
@@ -7,3 +8,4 @@
 -- Zone Points
 -- Toxxulia Forest
 UPDATE zone_points SET min_expansion=70 WHERE id=2345;
+

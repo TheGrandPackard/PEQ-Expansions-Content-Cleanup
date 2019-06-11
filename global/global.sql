@@ -1,3 +1,4 @@
+-- global
 -- Items
 -- Enstill
 UPDATE items SET name='Spell: Enstill' WHERE id IN (15131, 16226, 16320);
@@ -17,3 +18,4 @@ UPDATE global_loot SET min_expansion=70 WHERE id IN (1, 2, 3, 4, 5, 6, 7, 8);
 -- NPCs
 -- Last Names
 UPDATE npc_types SET lastname='' WHERE lastname !='';
+
