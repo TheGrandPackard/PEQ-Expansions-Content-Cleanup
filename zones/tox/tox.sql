@@ -5,7 +5,7 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=47143 and item IN (175
 -- Cyria Lorewhisper
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=414010 and item IN (16013, 16014);
 -- Emil Parsini
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=414035 and item IN (37977, 37978, 28880, 41237, 41238);
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=414035 and item IN (37977, 37978, 41237, 41238);
 UPDATE merchantlist SET min_expansion=6 WHERE merchantid=414035 and item=28880;
 -- Islan Hetston
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=414075 and item IN (36293, 90327, 90318, 36288, 18875, 36296, 36290, 36399, 90319, 90321, 64914, 64912, 36295, 18876, 18877, 36289, 36291, 36297, 36294, 90317, 64910, 36298, 90320, 64913, 36292, 64911, 18874);
