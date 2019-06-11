@@ -7,6 +7,12 @@
 
 ## Merchant Lists
 
+* Blugurg (25098)
+  * Black Ceremonial Coffin (28880) disabled until LoY
+  * Hounds Tongue (16833) unknown era item
+  * Scouts Poisons (18188) unknown era item
+  * Snakes Head Iris (16832) unknown era item
+
 ## Loot Tables
 
 ## Zone Points

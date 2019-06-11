@@ -5,6 +5,9 @@ UPDATE spawn2 SET min_expansion=70 WHERE id=1669;
 UPDATE spawn2 SET min_expansion=70 WHERE id=1683;
 
 -- Merchant Lists
+-- Blugurg
+UPDATE merchantlist SET min_expansion=6 WHERE merchantid=25098 and item=28880;
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=57083 and item IN (16833, 18188, 16832);
 
 -- Loot Tables
 

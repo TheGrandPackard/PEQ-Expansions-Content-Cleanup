@@ -4,6 +4,9 @@
 
 ## Merchant Lists
 
+* Tonsia (3019)
+  * Black Ceremonial Coffin (28880) disabled until LoY
+
 ## Loot Tables
 
 ## Zone Points
