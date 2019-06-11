@@ -15,7 +15,7 @@
 * a wandering greenblood (68183) unknown era spawn
 * Alun Bilgum (68091) disabled until OoW - Task Master
 * Atwin Keladryn (68076) disabled until OoW - Task Master
-* Balen Kalgunn (68072) disabled until OoW - Task Masteri
+* Balen Kalgunn (68072) disabled until OoW - Task Master
 * Biski Teezlen (68129) disabled until LDoN - Wayfarer's Camp NPC
 * Dapper Blackhammer (68089) disabled until RoK - Rozzut's Whistler Quest NPC
 * Deldryn Splendyr (68073) disabled until OoW - Task Master
