@@ -1,4 +1,6 @@
 -- Spawns
+-- Clork spawn
+UPDATE spawn2 SET min_expansion=70 WHERE id=59040;
 
 -- Merchant Lists
 

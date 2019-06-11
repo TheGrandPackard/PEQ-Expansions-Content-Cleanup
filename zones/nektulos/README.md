@@ -2,6 +2,9 @@
 
 ## Spawns
 
+* Blugurg (25098) unknown era spawn
+* Kinliat Bloodwalker (25111) unknown era spawn
+
 ## Merchant Lists
 
 ## Loot Tables

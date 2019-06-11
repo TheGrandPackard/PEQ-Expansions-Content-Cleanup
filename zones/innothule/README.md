@@ -2,6 +2,8 @@
 
 ## Spawns
 
+* Clork (46104) unknown era spawn
+
 ## Merchant Lists
 
 ## Loot Tables

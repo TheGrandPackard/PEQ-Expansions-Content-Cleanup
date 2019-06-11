@@ -2,7 +2,14 @@
 
 ## Spawns
 
+* Gizula (30083) disabled until LDoN
+* Guri (30098) unknown era spawn
+* Kipler Steffeal (30084) disabled until LDoN
+* Magus Delin (30088) disabled until LDoN
+
 ## Merchant Lists
+
+* Talin O`Donal () out of era merchant id
 
 ## Loot Tables
 

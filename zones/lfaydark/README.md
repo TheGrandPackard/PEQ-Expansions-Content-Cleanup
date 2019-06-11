@@ -2,6 +2,8 @@
 
 ## Spawns
 
+* a brownie noble (57157) disabled until OoW - Enchanter 2.0 Epic Quest NPC
+
 ## Merchant Lists
 
 ## Loot Tables

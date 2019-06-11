@@ -1,4 +1,6 @@
 -- Spawns
+-- a brownie noble spawn 
+UPDATE spawn2 SET min_expansion=9 WHERE id=250549;
 
 -- Merchant Lists
 

@@ -1,4 +1,8 @@
 -- Spawns
+-- Blururg
+UPDATE spawn2 SET min_expansion=70 WHERE id=1669;
+-- Kinliat Bloodwalker
+UPDATE spawn2 SET min_expansion=70 WHERE id=1683;
 
 -- Merchant Lists
 
