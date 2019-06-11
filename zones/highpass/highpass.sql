@@ -6,7 +6,7 @@ UPDATE spawn2 SET min_expansion=70 WHERE id=2268;
 -- Anson McBale
 UPDATE spawn2 SET min_expansion=2 WHERE id=2265;
 -- Commander Tehafer
-UPDATE npc types SET name="Commander_Tehafer" WHERE id=5132;
+UPDATE npc_types SET name="Commander_Tehafer" WHERE id=5132;
 -- Falyn Farreach
 UPDATE spawn2 SET min_expansion=70 WHERE id=2247;
 -- Lydl the Great
@@ -16,7 +16,7 @@ UPDATE spawn2 SET min_expansion=7 WHERE id=2307;
 -- The Fabled Grenix Mucktail
 UPDATE spawnentry SET chance=0 WHERE spawngroupID=1923 AND npcID=5134;
 -- Vranol Blackguard
-UPDATE spawn2 SET min expansion=5 WHERE id=2267;
+UPDATE spawn2 SET min_expansion=5 WHERE id=2267;
 
 -- Merchant Lists
 -- a dealer	

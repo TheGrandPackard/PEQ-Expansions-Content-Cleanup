@@ -8,7 +8,7 @@ UPDATE spawn2 SET min_expansion=70 WHERE id=11211;
 -- a clockwork bowyer	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=55102 AND item IN (38511, 38512, 38513, 38514, 38515, 45169, 45173, 45174, 60763, 60757, 45171, 45175, 45168, 45170, 45172);
 -- a clockwork brewmaster	
-UPDATE merchantlist SET min_expansion=10 WHERE merchantid=55147 IN (67393, 67394);
+UPDATE merchantlist SET min_expansion=10 WHERE merchantid=55147 AND item IN (67393, 67394);
 -- a clockwork cobbler	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=55106 AND item=13002;
 -- a clockwork merchant	
@@ -32,4 +32,4 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=55027 AND item IN (130
 -- Loot Tables
 
 -- Zone Points
-UDPATE zone_points SET min_expansion=70 WHERE id=2346;
+UPDATE zone_points SET min_expansion=70 WHERE id=2346;
