@@ -10,8 +10,6 @@ UPDATE spawn2 SET min_expansion=2 WHERE id=2265;
 UPDATE npc_types SET name="Commander_Tehafer" WHERE id=5132;
 -- Falyn Farreach
 UPDATE spawn2 SET min_expansion=70 WHERE id=2247;
--- Lydl the Great
-UPDATE spawn2 SET min_expansion=70 WHERE id=2229;
 -- Shumpi Wimahnn
 UPDATE spawn2 SET min_expansion=7 WHERE id=2307;
 -- The Fabled Grenix Mucktail

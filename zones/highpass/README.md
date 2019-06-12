@@ -7,7 +7,6 @@
 * Anson McBale (5037) disabled until RoK - Rogue Epic Quest NPC
 * Command Tehafer (5132) fix name
 * Falyn Farreach (5024) unknown era spawn
-* Lydl the Great (10162) unknown era spawn
 * Shumpi Wimahnn (5073) disabled until LDoN - LDoN Quest NPC 
 * The Fabled Grenix Mucktail (5134) unknown era spawn - spawn chances changed to classic
 * Vranol Blackguard (5039) disabled until PoP - Order of theStorm Caller Quest NPC

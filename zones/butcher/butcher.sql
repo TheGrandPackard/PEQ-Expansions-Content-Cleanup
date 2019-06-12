@@ -50,10 +50,6 @@ UPDATE spawn2 SET min_expansion=9 WHERE id=68090;
 UPDATE spawn2 SET min_expansion=70 WHERE id=68236;
 -- Glopruk Tigglum
 UPDATE spawn2 SET min_expansion=7 WHERE id=68127;
--- Glynda Smeltpot
-UPDATE spawn2 SET min_expansion=6 WHERE id=68035;
--- Glynn Smeltpot
-UPDATE spawn2 SET min_expansion=6 WHERE id=68214;
 -- Gridbar Galund
 UPDATE spawn2 SET min_expansion=9 WHERE id=68234;
 -- Guard Mandin
@@ -76,8 +72,6 @@ UPDATE spawn2 SET min_expansion=70 WHERE id=68247;
 UPDATE spawn2 SET min_expansion=7 WHERE id=5598;
 -- Mizmit Furnov
 UPDATE spawn2 SET min_expansion=7 WHERE id=5586;
--- Margyl Darklin
-UPDATE spawn2 SET min_expansion=6 WHERE id=68033;
 -- Renell Bekea
 UPDATE spawn2 SET min_expansion=70 WHERE id=68132;
 -- Rokaon Sternheart

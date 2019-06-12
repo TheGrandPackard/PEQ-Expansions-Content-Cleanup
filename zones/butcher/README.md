@@ -27,8 +27,6 @@
 * Gibi Bilgum (68090) disabled until OoW
 * Glisse Bluesea (68236) unknown era spawn
 * Glopruk Tigglum (68127) disabled until LDoN - Wayfarer's Camp NPC
-* Glynda Smeltpot (68035) disabled until LoY - Axebringers Breastplate Quest NPC
-* Glynn Smeltpot (68214) disabled until LoY - Brells Blessed Platemail Breastplate Quest NPC
 * Gridbar Galund (68234) disabled until OoW - Warrior 1.5 Epic Quest NPC
 * Guard Mandin (68264) disabled until OoW - Paladin 2.0 Epic Quest NPC
 * Harbormaster Ironbeard (68233) unknown era spawn
@@ -39,7 +37,6 @@
 * Kroggl (68126) disabled until LDoN - Wayfarer's Camp NPC
 * Lieutenant Gattek (68247) unknown era spawn
 * Magus Tira (68133) disabled until LDoN - Wayfarer's Camp NPC
-* Margyl Darklin (68033) disabled until LoY - Underfoot Defenders Platemail Gauntlets Quest NPC
 * Mimzit Furnov (68121) disabled until LDoN - Wayfarer's Camp NPC
 * Renell Bekea (68132) unknown era spawn
 * Rokaon Sternheart (68123) disabled until GoD and after RoS - Emissary of Shadowrest
