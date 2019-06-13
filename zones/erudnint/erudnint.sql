@@ -1,0 +1,36 @@
+-- Spawns
+-- Sparlus Penfold
+UPDATE spawn2 SET min_expansion=70 WHERE id=2349;
+
+-- Merchant Lists
+-- Anite Gemcutter
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23047 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 37798, 95813, 95820, 95806, 37956, 37803, 95812, 95819, 95805, 95826, 36439, 95816, 95823, 95809, 37802);
+-- Effunic Korett
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23003 AND item=23486;
+-- Elbsin Denuen
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23052 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958, 95837, 95815, 95822, 95808, 37957, 18926, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 37798, 95813, 95820, 95806, 37956, 37803, 95812, 95819, 95805, 95826, 36439, 95816, 95823, 95809, 37802); 
+-- Frena Runeflash
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23052 AND item IN (16017, 16013, 16014);
+-- Gissa Brist
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23004 AND item=19273;
+-- Glysin Denuen
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23050 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 37798, 95813, 95820, 95806, 37956, 37803, 95812, 95819, 95805, 95826, 36439, 95816, 95823, 95809, 37802);
+-- Gwynora Armista
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23032 AND item IN (13016, 9001, 9008, 7002, 17006, 1015, 18882);
+-- Harban Ranflash
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23036 AND item IN (16017, 16013, 16014);
+-- Judge Monosty
+UPDATE merchantlist SET min_expansion=6 WHERE merchantid=23056 AND item=28880;
+-- Myrcin Denuen
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23051 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 37798, 95813, 95820, 95806, 37956, 37803, 95812, 95819, 95805, 95826, 36439, 95816, 95823, 95809, 37802);
+-- Sharin Denuen
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23049 AND item IN (93172, 93170, 93169, 93171, 93167, 93168);
+-- Sothure Gemcutter
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23046 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 37798, 95813, 95820, 95806, 37956, 37803, 95812, 95819, 95805, 95826, 36439, 95816, 95823, 95809, 37802);
+-- Tan Monosty
+UPDATE merchantlist SET min_expansion=6 WHERE merchantid=23055 AND item=28880;
+-- Tika Shockstep
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23030 AND item IN (81827, 81834, 81831, 81837);
+-- Vall Stonewisp
+UPDATE merchantlist SET min_expansion=6 WHERE merchantid=23054 AND item=28880;
+
