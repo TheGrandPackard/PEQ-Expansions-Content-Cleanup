@@ -27,9 +27,9 @@ UPDATE spawn2 SET min_expansion=9 WHERE id=68072;
 -- Biski Teezlen
 UPDATE spawn2 SET min_expansion=7 WHERE id=5594;
 -- Corflunk
-UPDATE eqemu.spawnentry SET chance=90 WHERE spawngroupID=196 AND npcID=68022;
-UPDATE eqemu.spawnentry SET chance=10 WHERE spawngroupID=196 AND npcID=68146;
-UPDATE eqemu.spawnentry SET chance=0 WHERE spawngroupID=196 AND npcID=68249;
+UPDATE spawnentry SET chance=90 WHERE spawngroupID=196 AND npcID=68022;
+UPDATE spawnentry SET chance=10 WHERE spawngroupID=196 AND npcID=68146;
+UPDATE spawnentry SET chance=0 WHERE spawngroupID=196 AND npcID=68249;
 -- Dapper Blackhammer
 UPDATE spawn2 SET min_expansion=2 WHERE id=68089;
 -- Deldryn Splendyr
@@ -93,10 +93,10 @@ UPDATE spawn2 SET min_expansion=2 WHERE id=68087;
 -- Xyzelauna Tu
 UPDATE spawn2 SET min_expansion=7 WHERE id=68130;
 -- Zarchoomi
-UPDATE eqemu.spawnentry SET chance=30, npcID=68026 WHERE spawngroupID=212 AND npcID=68003;
-UPDATE eqemu.spawnentry SET chance=10, npcID=68043 WHERE spawngroupID=212 AND npcID=68018;
-UPDATE eqemu.spawnentry SET chance=30, npcID=68148 WHERE spawngroupID=212 AND npcID=68246;
-UPDATE eqemu.spawnentry SET chance=30 WHERE spawngroupID=212 AND npcID=68185;
+UPDATE spawnentry SET chance=30, npcID=68026 WHERE spawngroupID=212 AND npcID=68003;
+UPDATE spawnentry SET chance=10, npcID=68043 WHERE spawngroupID=212 AND npcID=68018;
+UPDATE spawnentry SET chance=30, npcID=68148 WHERE spawngroupID=212 AND npcID=68246;
+UPDATE spawnentry SET chance=30 WHERE spawngroupID=212 AND npcID=68185;
 
 -- Merchant Lists
 -- Izbal Brightblaze	
