@@ -4,8 +4,6 @@
 UPDATE spawn2 SET min_expansion=70 WHERE id=2490;
 
 -- Merchant Lists
--- Alysa_Eltern
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=24026 WHERE item=15131;
 -- Chembla_Ellent
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=24014 WHERE item IN (15318, 15311, 15321);
 -- Galbasi_Weaver

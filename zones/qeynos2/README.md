@@ -21,8 +21,6 @@
   * Short Beer (13032) unknown era item
   * Shotglass (16599) unknown era item
   * White Wine (13031) unknown era item
-* Enpero Mesog (2046)
-  * Spell: Enstill (15131) unknown era item
 * Mellisa Purgor (2047)
   * Blessed Water of Rodcet Nife (81835) unknown era item
 * Nerissa Clothspinner (2036)

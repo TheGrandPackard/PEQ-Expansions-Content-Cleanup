@@ -14,8 +14,6 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67043 AND item IN (377
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67042 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 37798, 95813, 95820, 95806, 37956, 37803, 95812, 95819, 95805, 95826, 36439, 95816, 95823, 95809, 10017, 37802);
 -- Bloarn Norkhitter	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67039 AND item IN (10488, 81692, 34359, 34407, 34375, 38340, 38342, 38343, 38341, 38344, 34439, 34391, 34423, 34455, 10494);
--- Dorlita Splitshield	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67066 AND item=15131;
 -- Fettar Steelwield	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=67064 AND item IN (23480, 23481, 23483, 23482, 23484);
 -- Harnoff Splitrock	

@@ -6,8 +6,6 @@ UPDATE spawn2 SET min_expansion=70 WHERE id=10847;
 -- Merchant Lists
 -- Ania Klephia	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=2082 AND item IN (13039, 16598, 13034, 13817, 16580, 13040, 16592, 13033, 13008, 16481, 13018, 13032, 16599, 13031);
--- Enpero Mesog	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=2046 AND item=15131;
 -- Mellisa Purgor	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=2047 AND item=81835;
 -- Nerissa Clothspinner	

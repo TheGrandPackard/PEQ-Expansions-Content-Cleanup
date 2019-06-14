@@ -102,8 +102,6 @@
   * Ossified Brellium (34423) unknown era item
   * Refractory Brellium (34455) unknown era item
   * Sheet of Brellium (10494) unknown era item
-* Dorlita Splitshield (67066)
-  * Spell: Enstill (15131) unknown era item
 * Fettar Steelwield (67064)
   * Spell: Reanimation (23480) unknown era item
   * Spell: Reconstitute (23481) unknown era item

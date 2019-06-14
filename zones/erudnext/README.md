@@ -4,8 +4,6 @@
 * Valani Gadriek (24096) unknown era spawn
 
 ## Merchant Lists
-* Alysa Eltern (24026)
-  * Spell: Enstill (15131) unknown era item
 * Chembla Ellent (24014)
   * Spell: Summon Bandages (15318)
   * Spell: Summon Dagger (15311)
