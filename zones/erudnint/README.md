@@ -137,7 +137,6 @@
   * Rapier (7002) probable accidental item
   * Small Box (17006) probable accidental item
   * Small Cloth Choker (1015) probable accidental item
-  * The End of an Age (18882) unknown era item
 * Harban Ranflash (23036)
   * Aquamarine (16017) probable accidental item
   * Broken Block of Ore (16013) unknown era item

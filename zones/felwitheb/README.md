@@ -60,7 +60,6 @@
   * Katuka Bark (93171) disabled until SoL - Crafting item
   * Arnworth (93172) disabled until SoL - Crafting item
 * Merchant Lyssia (62029)
-  * Book of Ancient Restoration	(17503) unknown era item
 * Merchant Jewyln (62030)
   * Broken Block of Ore (16013) unknown era item
   * Water of Povar (16014) unknown era item

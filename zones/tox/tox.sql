@@ -1,7 +1,5 @@
 -- tox
 -- Merchant Lists
--- Bup
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=47143 and item IN (17503, 18882);
 -- Cyria Lorewhisper
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=414010 and item IN (16013, 16014);
 -- Emil Parsini

@@ -2,9 +2,6 @@
 
 ## Merchant Lists
 
-* Bup (47143)
-  * Book of Ancient Restoration (17503) unknown era item
-  * The End of an Age (18882) unknown era item
 * Cyria Lorewhisper (38069)
   * Broken Block of Ore (16013) unknown era item
   * Water of Povar (16014) unknown era item

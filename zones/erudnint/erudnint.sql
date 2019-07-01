@@ -16,7 +16,7 @@ UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23004 AND item=19273;
 -- Glysin Denuen
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23050 AND item IN (37799, 37958, 35960, 37800, 35957, 95836, 35958, 95837, 95815, 95822, 95808, 37957, 95818, 95825, 95811, 95814, 95821, 95807, 95817, 95824, 95810, 37801, 35959, 37798, 95813, 95820, 95806, 37956, 37803, 95812, 95819, 95805, 95826, 36439, 95816, 95823, 95809, 37802);
 -- Gwynora Armista
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23032 AND item IN (13016, 9001, 9008, 7002, 17006, 1015, 18882);
+UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23032 AND item IN (13016, 9001, 9008, 7002, 17006, 1015);
 -- Harban Ranflash
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=23036 AND item IN (16017, 16013, 16014);
 -- Judge Monosty

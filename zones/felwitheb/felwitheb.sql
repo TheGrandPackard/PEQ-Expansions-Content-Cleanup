@@ -16,8 +16,6 @@ UPDATE merchantlist SET min_expansion=99 WHERE merchantid=62014 and item=1011;
 UPDATE merchantlist SET min_expansion=99 WHERE merchantid=62030 AND item IN (16017);
 -- Merchant Jewyln - Remove unknown era items	
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62030 AND item IN (16013, 16014);
--- Merchant Lyssia - Remove unknown era items	
-UPDATE merchantlist SET min_expansion=70 WHERE merchantid=62029 AND item=17503;
 -- Merchant Tyslin - Remove OoW era items (Enchanter 2.0 Epic quest piece)	
 UPDATE merchantlist SET min_expansion=9 WHERE merchantid=62026 and item=52948;
 -- Merchant Tyslin - Remove PoR era crafting items	

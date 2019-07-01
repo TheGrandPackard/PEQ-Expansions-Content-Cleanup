@@ -11,7 +11,6 @@
   * Spell: Lesser Evacuate (23486) unknown era item
 * Dulia Jestes (9061)
   * Binding Solution (36293) unknown era item
-  * Book of Ancient Restoration (17503) unknown era item
   * Cazic's Ink Additive (90327) unknown era item
   * Charta Arcanum Solution (90318) unknown era item
   * Crude Binding Solution (36288) unknown era item
@@ -34,7 +33,6 @@
   * Runic Spell Tablet Solution (64913) unknown era item
   * Simple Binding Solution (36292) unknown era item
   * Spell Tablet Solution (64911) unknown era item
-  * The End of an Age (18882) unknown era item
 * Gurb Smithson (9105)
   * Advanced Formed Potion Vial Sketch (96903) unknown era item
   * Advanced Friable Potion Vial Sketch (96894) unknown era item
