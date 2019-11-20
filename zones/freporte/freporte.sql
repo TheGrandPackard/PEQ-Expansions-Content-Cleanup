@@ -3,7 +3,7 @@
 UPDATE spawn2 SET min_expansion=70 WHERE id=2992;
 
 -- Merchant Lists
---Celanie Xtoria
+-- Celanie Xtoria
 UPDATE merchantlist SET min_expansion=70 WHERE merchantid=10088 AND item IN (1008, 1018, 1019, 15092);
  -- Daria Smith
  UPDATE merchantlist SET min_expansion=70 WHERE merchantid=10131 AND item IN (38356, 81692, 34364, 34412, 34380, 60317, 38340, 38342, 38343, 38341, 38344, 34444, 38355, 34396, 34428, 34460, 38354, 81677);
